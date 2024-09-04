@@ -1,0 +1,7 @@
+{
+  "name": "RegistrAPP_grupo13",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
